@@ -1,0 +1,20 @@
+{
+  "gui.start_game": "Начать игру",
+  "gui.options": "Настройки",
+  "gui.quit_game": "Выход",
+  "gui.press_enter": "Нажмите ENTER для выбора",
+  "gui.copyright": "(C) Копирайт. LighSync Games. 2026",
+
+  "gui.yes": "Да",
+  "gui.no": "Нет",
+  "gui.ok": "ОК",
+  "gui.cancel": "Отмена",
+
+  "gui.horror.title": "ХАХАХАХХАХАХАХА",
+  "gui.horror.subtitle": "Обосрался?",
+
+  "hud.score": "Счёт: ",
+  "hud.health": "Здоровье: ",
+  "hud.ammo": "Боезапас: ",
+  "hud.game_over": "ИГРА ОКОНЧЕНА"
+}

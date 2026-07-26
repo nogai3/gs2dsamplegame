@@ -1,0 +1,35 @@
+LIGHSYNC GAMES PUBLIC LICENSE (LSPL)
+Version 1.0
+
+Copyright (c) 2023-2026. LighSync Games. All rights reserved.
+Copyright (c) 2023-2026. GlackuS Development Studio. All rights reserved.
+Copyright (c) 2026. Gleb Ustimenko. All rights reserved.
+
+1. PREAMBLE AND GRANT OF LICENSE
+Subject to the terms and conditions set forth in this LighSync Games Public License (hereinafter referred to as the "License"), LighSync Games hereby grants to any individual or legal entity a license to use, modify, adapt, build upon, and distribute the LighSync Games Engine, including but not limited to its GS2D and GS3D core framework modules, for all lawful purposes, subject to the explicit restrictions and conditions outlined herein.
+
+2. TEMPORARY MORATORIUM ON NON-LIGHTSYNC USE
+Notwithstanding any provision to the contrary in this License, any use, deployment, modification, reproduction, publication, or distribution of the engine, including GS2D, GS3D, or any derivative works thereof, by any third party outside of LighSync Games is strictly prohibited until January 1, 2027. Prior to January 1, 2027, all rights, access, and usage are exclusively reserved by LighSync Games.
+
+3. OPEN-SOURCE OBLIGATION (COPYLEFT REQUIREMENT)
+Effective January 1, 2027, any user or developer who creates, releases, or distributes a project, application, game, software, or derivative work based on or incorporating GS2D or GS3D must make the entire source code of such project or derivative work publicly available under an open-source model and under terms compatible with this License. The source code must be made accessible to the public without restrictions.
+
+4. CLOSED-SOURCE AND PROPRIETARY COMMERCIAL EXCEPTION
+Effective January 1, 2027, if a developer, individual, or entity wishes to keep their project, application, or software closed-source, proprietary, or confidential without disclosing its source code to the public, such use is strictly contingent upon entering into a separate commercial agreement with LighSync Games and paying the required licensing fees and royalties to LighSync Games as stipulated in said agreement.
+
+5. GOVERNING LAW AND JURISDICTION
+This License, its interpretation, performance, validity, and any disputes arising out of or in connection with the use of the engine, GS2D, GS3D, or derivative works shall be governed by, construed, and enforced strictly in accordance with the legislation and laws of the Republic of Kazakhstan.
+
+6. NO WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL LIGHTSYNC GAMES OR THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. INQUIRIES AND COMMERCIAL LICENSING
+For inquiries regarding this License, commercial closed-source agreements, royalty arrangements, or permission requests prior to the moratorium expiration, please contact LighSync Games at:
+
+LighSync Games Support & Licensing
+Email: glackus@lighsync.org (if not responding please write to: thebrianmaps142@gmail.com)
+Website: https://lighsync.org/gs-engine-family
+
+Copyright (c) 2023-2026. LighSync Games. Republic of Kazakhstan. All rights reserved.
+Copyright (c) 2023-2026. GlackuS Development Studio. Republic of Kazakhstan. All rights reserved.
+Copyright (c) 2026. Gleb Ustimenko. Republic of Kazakhstan. All rights reserved.

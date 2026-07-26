@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.lighsync'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:6.0.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'com.lighsync.gs2dgame.GS2DGame',
+                'Implementation-Title': 'GS2D Sample Game',
+                'Implementation-Version': version,
+                'Built-By': System.getProperty('user.name')
+        )
+    }
+}

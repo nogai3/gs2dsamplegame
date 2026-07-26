@@ -1,0 +1,20 @@
+{
+  "gui.start_game": "START GAME",
+  "gui.options": "OPTIONS",
+  "gui.quit_game": "QUIT",
+  "gui.press_enter": "Press ENTER to select",
+  "gui.copyright": "(C) Copyright. LighSync Games. 2026",
+
+  "gui.yes": "YES",
+  "gui.no": "NO",
+  "gui.ok": "OK",
+  "gui.cancel": "Cancel",
+
+  "gui.horror.title": "HAHAHAHHAHAHAHA",
+  "gui.horror.subtitle": "Scared?",
+
+  "hud.score": "SCORE: ",
+  "hud.health": "HP: ",
+  "hud.ammo": "AMMO: ",
+  "hud.game_over": "GAME OVER"
+}
